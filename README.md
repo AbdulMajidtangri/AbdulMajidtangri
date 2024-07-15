@@ -4,7 +4,7 @@
 <img align="right"alt="coding"width="400"src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmajidtangri&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmajidtangri" /> </p>
 
-- 🌱 I’m currently learning **Cpp,HTML.**
+- 🌱 I’m currently learning **JavaScript,java.**
 
 - 📫 How to reach me **majidalitangri7@gmail.com**
 
