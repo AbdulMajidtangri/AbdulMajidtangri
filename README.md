@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Abdul Majid</h1>
   
-  <!-- Social Media Icons Only (as vector images) -->
+  <!-- Social Icons -->
   <p>
     <a href="https://twitter.com/majidalitangri" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="30" alt="Twitter">
@@ -13,12 +13,18 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="30" alt="Gmail">
     </a>
   </p>
-  
-  <!-- Full Stack heading in single row -->
-  <h3>Full Stack JavaScript Developer</h3>
-  
-  <!-- Coding animation -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation">
+
+  <!-- Left-Right Alignment -->
+  <table>
+    <tr>
+      <td align="left" width="50%">
+        <h3>Full Stack JavaScript Developer</h3>
+      </td>
+      <td align="right" width="50%">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
