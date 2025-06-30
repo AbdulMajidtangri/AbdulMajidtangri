@@ -12,7 +12,7 @@
     <a href="https://twitter.com/majidalitangri" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="32" alt="Twitter" style="filter: drop-shadow(0 0 6px rgba(29, 161, 242, 0.5))">
     </a>
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <a href="https://www.linkedin.com/in/abdul-majid-tangri-882522351/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" style="filter: drop-shadow(0 0 6px rgba(10, 102, 194, 0.5))">
     </a>
     <a href="mailto:majidalitangri7@gmail.com" target="_blank">
