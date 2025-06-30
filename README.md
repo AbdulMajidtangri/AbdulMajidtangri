@@ -1,69 +1,65 @@
 <div align="center">
-  <h1>
-    Abdul Majid
-  </h1>
-  <h3>Full Stack  Developer</h3>
-
+  <h1>Abdul Majid</h1>
+  
+  <!-- Social Media Icons Only (as vector images) -->
   <p>
     <a href="https://twitter.com/majidalitangri" target="_blank">
-      <img src="https://raw.githubusercontent.com/AbdulMajidtangri/AbdulMajidtangri/main/x-logo-white.png" width="20" alt="X/Twitter">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="30" alt="Twitter">
     </a>
-    &nbsp;
     <a href="https://linkedin.com/in/yourprofile" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn">
     </a>
-    &nbsp;
     <a href="mailto:majidalitangri7@gmail.com" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" alt="Gmail">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="30" alt="Gmail">
     </a>
   </p>
-</div>
----
-
-<div align="center">
+  
+  <!-- Full Stack heading in single row -->
+  <h3>Full Stack JavaScript Developer</h3>
+  
+  <!-- Coding animation -->
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation">
 </div>
 
 ---
 
----
-
-### 🛠 Technical Stack
+### 🚀 Technical Proficiencies
 
 <table width="100%">
   <tr>
     <td width="25%" align="center">
       <strong>Frontend</strong><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React">
     </td>
     <td width="25%" align="center">
       <strong>Backend</strong><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js">
     </td>
     <td width="25%" align="center">
       <strong>Languages</strong><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" title="C++">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++">
     </td>
     <td width="25%" align="center">
       <strong>Tools</strong><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" title="VS Code">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code">
     </td>
   </tr>
 </table>
 
+---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AbdulMajidtangri&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AbdulMajidtangri&show_icons=true&theme=dark&hide_border=true" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMajidtangri&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidtangri&layout=compact&theme=dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidtangri&layout=compact&theme=dark&hide_border=true" />
 </p>
