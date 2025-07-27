@@ -44,63 +44,64 @@
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="max-width: 400px; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);" alt="Coding Animation">
     </div>
   </div>
+<!-- Tech Stack Section -->
+<h2 style="font-size: 1.8rem; margin-top: 2rem; color: #58a6ff; text-align:center;">🚀 Tech Stack</h2>
 
-<!-- Tech Stack Section with Logos -->
-<h2 style="font-size: 1.8rem; margin-top: 2rem; color: #58a6ff;">🚀 Tech Stack</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1.2rem; margin: 2rem 0;">
+<!-- Grid Layout -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; margin: 2rem 0;">
 
   <!-- JavaScript -->
-  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-size: 1rem; color: #f7df1e;">JavaScript</span>
+  <div style="text-align: center; min-width: 120px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
+    <div style="font-size: 1rem; color: #f7df1e; margin-top: 0.5rem;">JavaScript</div>
   </div>
 
   <!-- React -->
-  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-size: 1rem; color: #61dafb;">React</span>
+  <div style="text-align: center; min-width: 120px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40">
+    <div style="font-size: 1rem; color: #61dafb; margin-top: 0.5rem;">React</div>
   </div>
 
   <!-- Node.js -->
-  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-size: 1rem; color: #3fb950;">Node.js</span>
+  <div style="text-align: center; min-width: 120px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
+    <div style="font-size: 1rem; color: #3fb950; margin-top: 0.5rem;">Node.js</div>
   </div>
 
-  <!-- Express.js -->
-  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-size: 1rem; color: #fff;">Express.js</span>
+  <!-- Express -->
+  <div style="text-align: center; min-width: 120px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" style="background:#fff; border-radius:50%; padding:3px;">
+    <div style="font-size: 1rem; color: #fff; margin-top: 0.5rem;">Express.js</div>
   </div>
 
   <!-- MongoDB -->
-  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-size: 1rem; color: #4DB33D;">MongoDB</span>
+  <div style="text-align: center; min-width: 120px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40">
+    <div style="font-size: 1rem; color: #4DB33D; margin-top: 0.5rem;">MongoDB</div>
   </div>
 
   <!-- Git & GitHub -->
-  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-size: 1rem; color: #fff;">Git & GitHub</span>
+  <div style="text-align: center; min-width: 120px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" style="background:#fff; border-radius:50%; padding:3px;">
+    <div style="font-size: 1rem; color: #fff; margin-top: 0.5rem;">Git & GitHub</div>
   </div>
 
   <!-- HTML5 -->
-  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-size: 1rem; color: #E34F26;">HTML5</span>
+  <div style="text-align: center; min-width: 120px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40">
+    <div style="font-size: 1rem; color: #E34F26; margin-top: 0.5rem;">HTML5</div>
   </div>
 
   <!-- CSS3 -->
-  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-size: 1rem; color: #2965f1;">CSS3</span>
+  <div style="text-align: center; min-width: 120px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40">
+    <div style="font-size: 1rem; color: #2965f1; margin-top: 0.5rem;">CSS3</div>
   </div>
 
   <!-- Tailwind CSS -->
-  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-size: 1rem; color: #38bdf8;">Tailwind CSS</span>
+  <div style="text-align: center; min-width: 120px;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40">
+    <div style="font-size: 1rem; color: #38bdf8; margin-top: 0.5rem;">Tailwind CSS</div>
   </div>
 
 </div>
