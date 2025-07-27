@@ -15,7 +15,7 @@
   <!-- Social Icons -->
   <div style="display: flex; justify-content: center; gap: 1rem; margin: 1.5rem 0;">
     <a href="https://twitter.com/majidalitangri" target="_blank" style="transition: transform 0.3s;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="32" alt="Twitter" style="filter: drop-shadow(0 0 6px rgba(29, 161, 242, 0.5));">
+      <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="32" alt="Twitter" style="filter: drop-shadow(0 0 6px rgba(29, 161, 242, 0.5));">
     </a>
     <a href="https://www.linkedin.com/in/abdul-majid-tangri-882522351/" target="_blank" style="transition: transform 0.3s;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" style="filter: drop-shadow(0 0 6px rgba(10, 102, 194, 0.5));">
