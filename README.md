@@ -43,7 +43,7 @@
     <div style="flex: 1; min-width: 250px; text-align: center;">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="max-width: 400px; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);" alt="Coding Animation">
 
-    </div>
+  
   </div>
 <!-- Tech Stack Section -->
 <h2 align="center">🚀 Tech Stack</h2>
