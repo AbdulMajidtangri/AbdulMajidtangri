@@ -47,7 +47,11 @@
 
   <!-- Tech Cards (same as before) -->
   ...
-
+     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;">
+        <span style="background: rgba(56, 139, 253, 0.15); color: #58a6ff; padding: 0.3rem 0.7rem; border-radius: 2rem; font-size: 0.9rem;">React Expert</span>
+        <span style="background: rgba(46, 160, 67, 0.15); color: #3fb950; padding: 0.3rem 0.7rem; border-radius: 2rem; font-size: 0.9rem;">Node.js</span>
+        <span style="background: rgba(138, 180, 248, 0.15); color: #79c0ff; padding: 0.3rem 0.7rem; border-radius: 2rem; font-size: 0.9rem;">Full Stack</span>
+      </div>
 </div>
 
 ---
