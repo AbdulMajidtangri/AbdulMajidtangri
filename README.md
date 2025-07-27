@@ -47,6 +47,8 @@
 <!-- Tech Stack Section -->
 <h2 style="font-size: 1.8rem; margin-top: 2rem; color: #58a6ff; text-align:center;">🚀 Tech Stack</h2>
 
+<!-- Tech Stack Section -->
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2rem; margin: 2rem 0;">
 
   <!-- JavaScript -->
