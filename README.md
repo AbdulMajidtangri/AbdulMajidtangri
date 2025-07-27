@@ -45,18 +45,65 @@
     </div>
   </div>
 
-  <!-- Tech Stack -->
-  <h2 style="font-size: 1.8rem; margin-top: 2rem; color: #58a6ff;">🚀 Tech Stack</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1.2rem; margin: 2rem 0;">
-    <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">JavaScript</div>
-    <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">React</div>
-    <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">Node.js</div>
-    <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">Express.js</div>
-    <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">MongoDB</div>
-    <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">Git & GitHub</div>
-    <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">HTML & CSS</div>
-    <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">Tailwind CSS</div>
+<!-- Tech Stack Section with Logos -->
+<h2 style="font-size: 1.8rem; margin-top: 2rem; color: #58a6ff;">🚀 Tech Stack</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1.2rem; margin: 2rem 0;">
+
+  <!-- JavaScript -->
+  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 1rem; color: #f7df1e;">JavaScript</span>
   </div>
+
+  <!-- React -->
+  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 1rem; color: #61dafb;">React</span>
+  </div>
+
+  <!-- Node.js -->
+  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 1rem; color: #3fb950;">Node.js</span>
+  </div>
+
+  <!-- Express.js -->
+  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 1rem; color: #fff;">Express.js</span>
+  </div>
+
+  <!-- MongoDB -->
+  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 1rem; color: #4DB33D;">MongoDB</span>
+  </div>
+
+  <!-- Git & GitHub -->
+  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 1rem; color: #fff;">Git & GitHub</span>
+  </div>
+
+  <!-- HTML5 -->
+  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 1rem; color: #E34F26;">HTML5</span>
+  </div>
+
+  <!-- CSS3 -->
+  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 1rem; color: #2965f1;">CSS3</span>
+  </div>
+
+  <!-- Tailwind CSS -->
+  <div style="background: rgba(56, 139, 253, 0.1); padding: 1rem; border-radius: 0.8rem; text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
+    <span style="font-size: 1rem; color: #38bdf8;">Tailwind CSS</span>
+  </div>
+
+</div>
 
   <!-- GitHub Analytics -->
   <h2 style="font-size: 1.8rem; margin-top: 2rem; color: #58a6ff;">📊 GitHub Analytics</h2>
