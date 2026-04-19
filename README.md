@@ -1,86 +1,61 @@
-<div align="center" style="font-family: Arial, sans-serif; color: #c9d1d9; background-color: #0d1117; padding: 2rem; border-radius: 1rem;">
+<div align="center" style="font-family: Arial, sans-serif; color: #c9d1d9; background-color: #0d1117; padding: 3rem; border-radius: 1.2rem; max-width: 900px; margin:auto;">
 
   <!-- HEADER -->
-
-  <h1 style="font-size: 3rem; background: linear-gradient(90deg, #4F46E5, #E1147E); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  <h1 style="font-size: 3.2rem; background: linear-gradient(90deg, #4F46E5, #E1147E); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0.3rem;">
     Abdul Majid
   </h1>
 
-  <h3>
+  <h3 style="margin-top:0;">
     <span style="background: linear-gradient(90deg, #00DBDE, #FC00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       Full Stack JavaScript Developer
     </span>
   </h3>
 
   <!-- TYPING EFFECT -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+Modern+Web+Apps+🚀;MERN+Stack+Developer;Clean+Code+%7C+Scalable+Apps" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Apps+🚀;MERN+Stack+Developer;Clean+Code+%7C+Scalable+Apps" />
+  <br><br>
 
-<br><br>
-
-  <!-- SOCIAL BADGES -->
-
-  <p>
-    <a href="https://twitter.com/majidalitangri">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/abdul-majid-tangri-882522351/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:majidalitangri7@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
-
-  <br>
-
-  <!-- INTRO -->
-
-  <p style="font-size:1.1rem; max-width:650px; margin:auto;">
-    🚀 Passionate developer building scalable and high-performance web applications using modern JavaScript technologies.
-  </p>
+  <!-- INTRO CARD -->
+  <div style="background: #161b22; padding: 1.5rem; border-radius: 1rem; box-shadow: 0 0 20px rgba(0,0,0,0.4); margin-top: 1rem;">
+    <p style="font-size:1.1rem; line-height:1.6;">
+      🚀 Passionate developer focused on building <b>scalable</b>, <b>fast</b>, and <b>modern web applications</b> using JavaScript ecosystem and MERN stack.
+    </p>
+  </div>
 
   <br>
 
   <!-- TECH STACK -->
+  <h2 style="color:#58a6ff; margin-top:1.5rem;">🚀 Tech Stack</h2>
 
-  <h2 style="color:#58a6ff;">🚀 Tech Stack</h2>
-
-  <p>
+  <div style="background:#161b22; padding:1.5rem; border-radius:1rem; display:inline-block;">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github" />
-  </p>
-
-  <br>
-
-  <!-- ANALYTICS -->
-
-  <h2 style="color:#58a6ff;">📊 GitHub Analytics</h2>
-
-  <!-- REAL GRAPH FIRST -->
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMajidtangri&theme=tokyo-night&hide_border=true" style="border-radius:10px;" />
-
-<br><br>
-
-  <!-- STATS + STREAK -->
-
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdulMajidtangri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-    <img src="https://streak-stats.demolab.com?user=AbdulMajidtangri&theme=tokyonight&hide_border=true" height="180"/>
   </div>
 
-<br><br>
+  <br><br>
 
-  <!-- LANGUAGES -->
+  <!-- GITHUB STATS -->
+  <h2 style="color:#58a6ff;">📊 GitHub Stats</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidtangri&layout=compact&theme=tokyonight&hide_border=true" />
+  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdulMajidtangri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMajidtangri&theme=tokyonight&hide_border=true" height="180"/>
+  </div>
 
-<br><br>
+  <br><br>
+
+  <!-- TOP LANGUAGES -->
+  <h2 style="color:#58a6ff;">💡 Most Used Languages</h2>
+
+  <div style="background:#161b22; padding:1rem; border-radius:1rem;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidtangri&layout=compact&theme=tokyonight&hide_border=true" />
+  </div>
+
+  <br><br>
 
   <!-- FOOTER -->
-
-  <p style="color:#8b949e;">
-    💬 "Code. Learn. Build. Repeat."
-  </p>
+  <div style="margin-top:2rem; font-size:1.1rem; color:#8b949e;">
+    💬 <i>"Code. Learn. Build. Improve."</i>
+  </div>
 
 </div>
