@@ -12,21 +12,21 @@
   </h3>
 
   <!-- TYPING EFFECT -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+Modern+Web+Apps+🚀;MERN+Stack+Developer;Clean+Code+%7C+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+Modern+Web+Apps+;MERN+Stack+Developer;Clean+Code+%7C+Scalable+Apps" />
 
   <br><br>
 
   <!-- INTRO CARD -->
   <div style="background: #161b22; padding: 1.5rem; border-radius: 1rem; box-shadow: 0 0 20px rgba(0,0,0,0.4); margin-top: 1rem;">
     <p style="font-size:1.1rem; line-height:1.6;">
-      🚀 Passionate developer focused on building <b>scalable</b>, <b>fast</b>, and <b>modern web applications</b> using JavaScript ecosystem and MERN stack.
+       Passionate developer focused on building <b>scalable</b>, <b>fast</b>, and <b>modern web applications</b> using JavaScript ecosystem and MERN stack.
     </p>
   </div>
 
   <br>
 
   <!-- TECH STACK -->
-  <h2 style="color:#58a6ff; margin-top:1.5rem;">🚀 Tech Stack</h2>
+  <h2 style="color:#58a6ff; margin-top:1.5rem;"> Tech Stack</h2>
 
   <div style="background:#161b22; padding:1.5rem; border-radius:1rem; display:inline-block;">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github" />
@@ -45,7 +45,7 @@
   <br><br>
 
   <!-- TOP LANGUAGES -->
-  <h2 style="color:#58a6ff;">💡 Most Used Languages</h2>
+  <h2 style="color:#58a6ff;">Most Used Languages</h2>
 
   <div style="background:#161b22; padding:1rem; border-radius:1rem;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidtangri&layout=compact&theme=tokyonight&hide_border=true" />
