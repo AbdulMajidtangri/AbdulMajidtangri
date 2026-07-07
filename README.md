@@ -29,7 +29,7 @@
   <h2 style="color:#58a6ff; margin-top:1.5rem;"> Tech Stack</h2>
 
   <div style="background:#161b22; padding:1.5rem; border-radius:1rem; display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github,python,numpy" />
   </div>
 
   <br><br>
