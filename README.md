@@ -17,44 +17,6 @@
 
 <br/>
 
-<a href="https://github.com/AbdulMajidtangri">
-  <img
-    src="https://img.shields.io/badge/GitHub-AbdulMajidtangri-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub Profile"
-  />
-</a>
-
-<a href="https://marsevtech.com">
-  <img
-    src="https://img.shields.io/badge/Portfolio-MarsevTech-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="MarsevTech Website"
-  />
-</a>
-
-<a href="mailto:support@marsevtech.com">
-  <img
-    src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<br/><br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=AbdulMajidtangri&label=Profile%20Views&color=6D28D9&style=flat-square"
-  alt="Profile Views"
-/>
-
-<img
-  src="https://img.shields.io/github/followers/AbdulMajidtangri?label=Followers&style=flat-square&color=2563EB"
-  alt="GitHub Followers"
-/>
-
-</div>
-
-<br/>
-
----
 
 ## About Me
 
@@ -62,12 +24,12 @@ I am a **Software Engineering student** and **Full-Stack JavaScript Developer** 
 
 My work combines frontend engineering, backend development, REST APIs, authentication, database design and production deployment. I enjoy transforming real-world requirements into structured digital products with clean interfaces and reliable functionality.
 
-- Building full-stack applications with the MERN ecosystem
-- Developing responsive interfaces with React and Tailwind CSS
-- Creating RESTful APIs with Node.js and Express.js
-- Working with MongoDB, MySQL and SQL
-- Learning Python, Pandas, NumPy and data analysis
-- Exploring cloud computing, DevOps and scalable architecture
+Building full-stack applications with the MERN ecosystem
+Developing responsive interfaces with React and Tailwind CSS
+Creating RESTful APIs with Node.js and Express.js
+Working with MongoDB, MySQL and SQL
+Learning Python, Pandas, NumPy and data analysis
+Exploring cloud computing, DevOps and scalable architecture
 
 <br/>
 
@@ -226,12 +188,12 @@ DocLink is a multi-role healthcare platform designed to connect verified doctors
 
 **Key features**
 
-- Dedicated portals for patients, doctors, clinic assistants and administrators
-- Doctor verification and onboarding workflows
-- Symptom-based doctor discovery
-- Real-time appointment booking
-- Multi-clinic management
-- Secure authentication and role-based authorization
+Dedicated portals for patients, doctors, clinic assistants and administrators
+Doctor verification and onboarding workflows
+Symptom-based doctor discovery
+Real-time appointment booking
+Multi-clinic management
+Secure authentication and role-based authorization
 
 <img
   src="https://img.shields.io/badge/Project_Status-Active_Development-6D28D9?style=for-the-badge"
@@ -240,67 +202,6 @@ DocLink is a multi-role healthcare platform designed to connect verified doctors
 
 <br/><br/>
 
----
-
-### MarsevTech
-
-**Digital Product and Web Development Agency**
-
-MarsevTech is a professional digital agency platform presenting web-development, UI/UX design and business software services through a modern and responsive experience.
-
-**Technology**
-
-`React` `JavaScript` `Responsive Design` `Reusable Components` `SEO`
-
-**Key features**
-
-- Modern agency website
-- Professional services architecture
-- Portfolio and case-study sections
-- Reusable React components
-- Responsive layouts
-- Production deployment
-
-<a href="https://marsevtech.com">
-  <img
-    src="https://img.shields.io/badge/View_Live_Website-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="View MarsevTech"
-  />
-</a>
-
-<br/><br/>
-
----
-
-### Husbar
-
-**Professional Business Website**
-
-A production-focused business website developed with responsive layouts, interactive components and effective customer-contact integration.
-
-**Technology**
-
-`React` `JavaScript` `Responsive UI` `Email Integration`
-
-**Key features**
-
-- Responsive frontend interface
-- Modern content presentation
-- Interactive page sections
-- Contact and email functionality
-- Cross-device compatibility
-- Production deployment and maintenance
-
-<a href="https://www.husbar.com">
-  <img
-    src="https://img.shields.io/badge/View_Live_Project-111827?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="View Husbar"
-  />
-</a>
-
-<br/><br/>
-
----
 
 ### Wajedo International Corporation
 
@@ -314,12 +215,12 @@ A corporate platform featuring service presentation, project showcases, visual a
 
 **Key features**
 
-- React-based corporate interface
-- GSAP-powered animations
-- Dark-mode functionality
-- Project and service showcases
-- Testimonial presentation
-- Responsive layouts
+React-based corporate interface
+GSAP-powered animations
+Dark-mode functionality
+Project and service showcases
+Testimonial presentation
+Responsive layouts
 
 <a href="https://wajedo-international-corporation.vercel.app/">
   <img
@@ -332,61 +233,6 @@ A corporate platform featuring service presentation, project showcases, visual a
 
 ---
 
-### E-Commerce Platform
-
-**Product Discovery and Shopping Experience**
-
-A React-based e-commerce platform created to demonstrate product presentation, reusable components and application-level state management.
-
-**Technology**
-
-`React` `Context API` `JavaScript` `Responsive Design`
-
-**Key features**
-
-- Product catalogue
-- Product detail presentation
-- React Context API
-- Reusable components
-- Responsive storefront
-- State-driven interface
-
-<a href="https://e-commerce-website-t.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/View_Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="View E-Commerce Platform"
-  />
-</a>
-
-<br/><br/>
-
----
-
-### Brevity Books
-
-**Content and Publishing Website**
-
-A responsive content platform focused on structured information, clear reading experiences and simple navigation.
-
-**Technology**
-
-`React` `JavaScript` `Responsive Design` `Content Architecture`
-
-**Key features**
-
-- Blog-style content architecture
-- Reusable content cards
-- Category presentation
-- Responsive layouts
-- User-friendly reading interface
-- Netlify deployment
-
-<a href="https://brevitybooks.netlify.app/">
-  <img
-    src="https://img.shields.io/badge/View_Live_Project-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
-    alt="View Brevity Books"
-  />
-</a>
 
 <br/>
 
