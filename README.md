@@ -1,42 +1,53 @@
+<!-- ========================================================= -->
+<!--              ABDUL MAJID — GITHUB PROFILE                 -->
+<!-- ========================================================= -->
+
 <div align="center">
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:020617,45:4C1D95,100:2563EB&text=ABDUL%20MAJID&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20JavaScript%20Developer&descSize=18&descAlignY=60&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:4C1D95,100:2563EB&text=ABDUL%20MAJID&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20JavaScript%20Developer&descSize=18&descAlignY=60&animation=fadeIn"
   alt="Abdul Majid"
 />
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Building+modern+and+scalable+web+applications;Engineering+full-stack+products+with+the+MERN+ecosystem;Creating+responsive%2C+maintainable+and+reliable+software;Exploring+Python%2C+SQL+and+data-driven+development"
-  alt="Typing introduction"
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Building+modern+and+scalable+web+applications;Engineering+full-stack+products+with+the+MERN+ecosystem;Creating+responsive+and+maintainable+digital+experiences;Exploring+Python%2C+SQL+and+data-driven+development"
+  alt="Typing Introduction"
 />
 
 <br/>
 
 <a href="https://github.com/AbdulMajidtangri">
   <img
-    src="https://img.shields.io/badge/GITHUB-ABDULMAJIDTANGRI-181717?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GitHub-AbdulMajidtangri-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub Profile"
   />
 </a>
 
 <a href="https://marsevtech.com">
   <img
-    src="https://img.shields.io/badge/PORTFOLIO-MARSEVTECH-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="MarsevTech"
+    src="https://img.shields.io/badge/Portfolio-MarsevTech-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="MarsevTech Website"
   />
 </a>
 
 <a href="mailto:support@marsevtech.com">
   <img
-    src="https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
 
+<br/><br/>
+
 <img
-  src="https://komarev.com/ghpvc/?username=AbdulMajidtangri&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=AbdulMajidtangri&label=Profile%20Views&color=6D28D9&style=flat-square"
   alt="Profile Views"
+/>
+
+<img
+  src="https://img.shields.io/github/followers/AbdulMajidtangri?label=Followers&style=flat-square&color=2563EB"
+  alt="GitHub Followers"
 />
 
 </div>
@@ -47,16 +58,16 @@
 
 ## About Me
 
-I am a **Software Engineering student** and **Full-Stack JavaScript Developer** focused on building modern, scalable and maintainable digital products.
+I am a **Software Engineering student** and **Full-Stack JavaScript Developer** focused on building modern, responsive and maintainable web applications.
 
-My work combines frontend engineering, backend development, REST APIs, authentication, database design and responsive user interfaces. I enjoy converting real-world requirements into structured software solutions that are reliable, user-friendly and easy to extend.
+My work combines frontend engineering, backend development, REST APIs, authentication, database design and production deployment. I enjoy transforming real-world requirements into structured digital products with clean interfaces and reliable functionality.
 
 - Building full-stack applications with the MERN ecosystem
 - Developing responsive interfaces with React and Tailwind CSS
-- Creating REST APIs with Node.js and Express.js
+- Creating RESTful APIs with Node.js and Express.js
 - Working with MongoDB, MySQL and SQL
 - Learning Python, Pandas, NumPy and data analysis
-- Exploring cloud computing, DevOps and scalable system design
+- Exploring cloud computing, DevOps and scalable architecture
 
 <br/>
 
@@ -66,106 +77,134 @@ My work combines frontend engineering, backend development, REST APIs, authentic
 
 <div align="center">
 
-### Frontend Development
+### Frontend Engineering
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap&theme=dark"
-  alt="Frontend Technologies"
-/>
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite&theme=dark&perline=7"
+    alt="Frontend Technologies"
+  />
+</p>
 
-<br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
-### Backend Development
+<br/>
 
-<img
-  src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"
-  alt="Backend Technologies"
-/>
+### Backend Engineering
 
-<br/><br/>
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"
+    alt="Backend Technologies"
+  />
+</p>
 
-<img
-  src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white"
-  alt="REST APIs"
-/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/REST_APIs-312E81?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/MVC_Architecture-4C1D95?style=flat-square" alt="MVC Architecture"/>
+</p>
 
-<img
-  src="https://img.shields.io/badge/JWT-AUTHENTICATION-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
-  alt="JWT Authentication"
-/>
-
-<img
-  src="https://img.shields.io/badge/MVC-ARCHITECTURE-4C1D95?style=for-the-badge"
-  alt="MVC Architecture"
-/>
-
-<br/><br/>
+<br/>
 
 ### Programming Languages
 
-<img
-  src="https://skillicons.dev/icons?i=js,python,java,cpp&theme=dark"
-  alt="Programming Languages"
-/>
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=js,python,java,cpp&theme=dark&perline=4"
+    alt="Programming Languages"
+  />
+</p>
 
-<br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
 
-### Databases
+<br/>
 
-<img
-  src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"
-  alt="Databases"
-/>
+### Databases and Query Languages
 
-<br/><br/>
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"
+    alt="Database Technologies"
+  />
+</p>
 
-<img
-  src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"
-  alt="SQL"
-/>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-1F2937?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/>
+</p>
 
-<img
-  src="https://img.shields.io/badge/MONGOOSE-880000?style=for-the-badge&logo=mongoose&logoColor=white"
-  alt="Mongoose"
-/>
-
-<br/><br/>
+<br/>
 
 ### Data Analysis and Visualization
 
-<img
-  src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"
-  alt="NumPy"
-/>
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=python&theme=dark"
+    alt="Python Data Analysis"
+  />
+</p>
 
-<img
-  src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"
-  alt="Pandas"
-/>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+</p>
 
-<img
-  src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white"
-  alt="Matplotlib"
-/>
+<br/>
 
-<img
-  src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge&logo=python&logoColor=white"
-  alt="Seaborn"
-/>
+### Development Tools
 
-<img
-  src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
-  alt="Jupyter Notebook"
-/>
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=dark&perline=6"
+    alt="Development Tools"
+  />
+</p>
 
-<br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Figma-1F2937?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma"/>
+</p>
 
-### Tools and Platforms
+<br/>
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,vercel,netlify&theme=dark"
-  alt="Development Tools"
-/>
+### Deployment Platforms
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark"
+    alt="Deployment Platforms"
+  />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Render-1F2937?style=flat-square&logo=render&logoColor=46E3B7" alt="Render"/>
+</p>
 
 </div>
 
@@ -173,25 +212,29 @@ My work combines frontend engineering, backend development, REST APIs, authentic
 
 ---
 
-## Featured Projects
+## Featured Work
 
-### DocLink — AI-Powered Healthcare Platform
+### DocLink
 
-A multi-role healthcare platform designed to connect verified doctors with patients through intelligent doctor discovery, real-time appointment booking and structured clinic-management workflows.
+**AI-Powered Healthcare Platform**
 
-**Key engineering areas**
+DocLink is a multi-role healthcare platform designed to connect verified doctors with patients through intelligent doctor discovery, real-time appointment booking and organized clinic-management workflows.
 
-`React` `Node.js` `Express.js` `MongoDB` `Authentication` `Role-Based Access`
+**Technology**
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
+
+**Key features**
 
 - Dedicated portals for patients, doctors, clinic assistants and administrators
-- Doctor verification and healthcare-specific onboarding workflows
-- Appointment booking and multi-clinic management
-- Intelligent symptom-based doctor discovery
+- Doctor verification and onboarding workflows
+- Symptom-based doctor discovery
+- Real-time appointment booking
+- Multi-clinic management
 - Secure authentication and role-based authorization
-- Responsive healthcare-focused user experience
 
 <img
-  src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-6D28D9?style=for-the-badge"
+  src="https://img.shields.io/badge/Project_Status-Active_Development-6D28D9?style=for-the-badge"
   alt="Active Development"
 />
 
@@ -199,24 +242,28 @@ A multi-role healthcare platform designed to connect verified doctors with patie
 
 ---
 
-### MarsevTech — Digital Product and Web Development Agency
+### MarsevTech
 
-A professional agency platform presenting web-development, UI/UX design and business software services through a modern and responsive digital experience.
+**Digital Product and Web Development Agency**
 
-**Key engineering areas**
+MarsevTech is a professional digital agency platform presenting web-development, UI/UX design and business software services through a modern and responsive experience.
 
-`React` `Responsive Design` `Reusable Components` `SEO` `Performance`
+**Technology**
 
-- Modern agency website architecture
-- Reusable React components
+`React` `JavaScript` `Responsive Design` `Reusable Components` `SEO`
+
+**Key features**
+
+- Modern agency website
+- Professional services architecture
 - Portfolio and case-study sections
-- Responsive layouts for all screen sizes
-- Service-focused page structure
-- Production deployment and performance optimization
+- Reusable React components
+- Responsive layouts
+- Production deployment
 
 <a href="https://marsevtech.com">
   <img
-    src="https://img.shields.io/badge/VIEW%20LIVE%20WEBSITE-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"
+    src="https://img.shields.io/badge/View_Live_Website-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="View MarsevTech"
   />
 </a>
@@ -225,16 +272,20 @@ A professional agency platform presenting web-development, UI/UX design and busi
 
 ---
 
-### Husbar — Professional Business Website
+### Husbar
+
+**Professional Business Website**
 
 A production-focused business website developed with responsive layouts, interactive components and effective customer-contact integration.
 
-**Key engineering areas**
+**Technology**
 
-`Frontend Development` `Responsive UI` `Email Integration` `Deployment`
+`React` `JavaScript` `Responsive UI` `Email Integration`
 
-- Modern and responsive frontend interface
-- Structured business-content presentation
+**Key features**
+
+- Responsive frontend interface
+- Modern content presentation
 - Interactive page sections
 - Contact and email functionality
 - Cross-device compatibility
@@ -242,7 +293,7 @@ A production-focused business website developed with responsive layouts, interac
 
 <a href="https://www.husbar.com">
   <img
-    src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-111827?style=for-the-badge&logo=googlechrome&logoColor=white"
+    src="https://img.shields.io/badge/View_Live_Project-111827?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="View Husbar"
   />
 </a>
@@ -253,22 +304,26 @@ A production-focused business website developed with responsive layouts, interac
 
 ### Wajedo International Corporation
 
-A corporate construction and inspection platform featuring service presentation, project showcases, visual animations and a responsive dark-mode experience.
+**Corporate Construction and Inspection Website**
 
-**Key engineering areas**
+A corporate platform featuring service presentation, project showcases, visual animations and a responsive dark-mode experience.
 
-`React` `GSAP` `Responsive Design` `Dark Mode` `Animations`
+**Technology**
+
+`React` `GSAP` `JavaScript` `Responsive Design` `Dark Mode`
+
+**Key features**
 
 - React-based corporate interface
 - GSAP-powered animations
 - Dark-mode functionality
 - Project and service showcases
 - Testimonial presentation
-- Responsive layouts across devices
+- Responsive layouts
 
 <a href="https://wajedo-international-corporation.vercel.app/">
   <img
-    src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    src="https://img.shields.io/badge/View_Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white"
     alt="View Wajedo International Corporation"
   />
 </a>
@@ -279,21 +334,26 @@ A corporate construction and inspection platform featuring service presentation,
 
 ### E-Commerce Platform
 
-A React-based shopping platform created to demonstrate product discovery, reusable components and application-level state management.
+**Product Discovery and Shopping Experience**
 
-**Key engineering areas**
+A React-based e-commerce platform created to demonstrate product presentation, reusable components and application-level state management.
 
-`React` `Context API` `State Management` `Responsive Design`
+**Technology**
 
-- Product catalogue and shopping interface
-- React Context API for state management
-- Reusable product components
-- Responsive storefront design
-- Dynamic and state-driven user interface
+`React` `Context API` `JavaScript` `Responsive Design`
+
+**Key features**
+
+- Product catalogue
+- Product detail presentation
+- React Context API
+- Reusable components
+- Responsive storefront
+- State-driven interface
 
 <a href="https://e-commerce-website-t.vercel.app/">
   <img
-    src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    src="https://img.shields.io/badge/View_Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white"
     alt="View E-Commerce Platform"
   />
 </a>
@@ -304,21 +364,26 @@ A React-based shopping platform created to demonstrate product discovery, reusab
 
 ### Brevity Books
 
-A responsive content and publishing website focused on clear reading experiences, structured content presentation and user-friendly navigation.
+**Content and Publishing Website**
 
-**Key engineering areas**
+A responsive content platform focused on structured information, clear reading experiences and simple navigation.
 
-`Content Architecture` `Responsive Design` `Reusable Cards` `Deployment`
+**Technology**
+
+`React` `JavaScript` `Responsive Design` `Content Architecture`
+
+**Key features**
 
 - Blog-style content architecture
-- Responsive content cards
-- Clear navigation and category presentation
+- Reusable content cards
+- Category presentation
+- Responsive layouts
 - User-friendly reading interface
-- Production deployment with Netlify
+- Netlify deployment
 
 <a href="https://brevitybooks.netlify.app/">
   <img
-    src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+    src="https://img.shields.io/badge/View_Live_Project-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
     alt="View Brevity Books"
   />
 </a>
@@ -327,49 +392,18 @@ A responsive content and publishing website focused on clear reading experiences
 
 ---
 
-## Engineering Capabilities
+## Engineering Focus
 
 <div align="center">
 
-<img
-  src="https://img.shields.io/badge/CLEAN%20CODE-111827?style=for-the-badge"
-  alt="Clean Code"
-/>
-
-<img
-  src="https://img.shields.io/badge/RESPONSIVE%20DESIGN-1E293B?style=for-the-badge"
-  alt="Responsive Design"
-/>
-
-<img
-  src="https://img.shields.io/badge/REST%20API%20DEVELOPMENT-312E81?style=for-the-badge"
-  alt="REST API Development"
-/>
-
-<img
-  src="https://img.shields.io/badge/AUTHENTICATION-4338CA?style=for-the-badge"
-  alt="Authentication"
-/>
-
-<img
-  src="https://img.shields.io/badge/DATABASE%20DESIGN-5B21B6?style=for-the-badge"
-  alt="Database Design"
-/>
-
-<img
-  src="https://img.shields.io/badge/SCALABLE%20ARCHITECTURE-6D28D9?style=for-the-badge"
-  alt="Scalable Architecture"
-/>
-
-<img
-  src="https://img.shields.io/badge/PROBLEM%20SOLVING-7C3AED?style=for-the-badge"
-  alt="Problem Solving"
-/>
-
-<img
-  src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-8B5CF6?style=for-the-badge"
-  alt="Continuous Learning"
-/>
+<img src="https://img.shields.io/badge/Clean_Code-111827?style=for-the-badge" alt="Clean Code"/>
+<img src="https://img.shields.io/badge/Responsive_Design-1E293B?style=for-the-badge" alt="Responsive Design"/>
+<img src="https://img.shields.io/badge/Reusable_Components-312E81?style=for-the-badge" alt="Reusable Components"/>
+<img src="https://img.shields.io/badge/REST_API_Development-4338CA?style=for-the-badge" alt="REST API Development"/>
+<img src="https://img.shields.io/badge/Authentication-5B21B6?style=for-the-badge" alt="Authentication"/>
+<img src="https://img.shields.io/badge/Database_Design-6D28D9?style=for-the-badge" alt="Database Design"/>
+<img src="https://img.shields.io/badge/Problem_Solving-7C3AED?style=for-the-badge" alt="Problem Solving"/>
+<img src="https://img.shields.io/badge/Continuous_Learning-8B5CF6?style=for-the-badge" alt="Continuous Learning"/>
 
 </div>
 
@@ -416,7 +450,7 @@ A responsive content and publishing website focused on clear reading experiences
 <img
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMajidtangri&theme=tokyo-night&hide_border=true&area=true&custom_title=Abdul%20Majid's%20Contribution%20Activity"
-  alt="Contribution Activity Graph"
+  alt="Abdul Majid Contribution Activity"
 />
 
 </div>
@@ -425,11 +459,25 @@ A responsive content and publishing website focused on clear reading experiences
 
 ---
 
-## Current Development Focus
+## Professional Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Front-End Development Intern — Husbar
+
+Worked in a collaborative remote environment on responsive frontend interfaces, reusable components and project delivery under strict deadlines.
+
+### IT Intern — Sui Southern Gas Company
+
+Gained practical exposure to organizational IT operations, domain-connected systems, Windows troubleshooting, software installation and remote office support.
+
+### Full-Stack Development Intern
+
+Continued developing practical experience in frontend engineering, backend APIs, authentication and database-driven applications.
+
+<br/>
+
+---
+
+## Current Development Direction
 
 ### Full-Stack Engineering
 
@@ -440,6 +488,88 @@ A responsive content and publishing website focused on clear reading experiences
 - Database-driven applications
 - Production deployment
 
-</td>
+### Software Engineering
 
-<td
+- Object-oriented programming
+- Data structures and algorithms
+- Software design patterns
+- Clean architecture
+- System modelling
+- System design fundamentals
+
+### Data and Databases
+
+- SQL query development
+- Relational database concepts
+- Data cleaning with Pandas
+- Numerical operations with NumPy
+- Data visualization with Matplotlib
+- Statistical visualization with Seaborn
+
+### Future Learning
+
+- Cloud computing
+- DevOps fundamentals
+- Docker
+- Automated testing
+- CI/CD workflows
+- Scalable system architecture
+
+<br/>
+
+---
+
+## Collaboration
+
+I am interested in collaborating on:
+
+- Full-stack JavaScript applications
+- MERN-stack platforms
+- Healthcare technology
+- Business management systems
+- E-commerce platforms
+- Data-analysis projects
+- Open-source software
+
+<div align="center">
+
+<a href="mailto:support@marsevtech.com">
+  <img
+    src="https://img.shields.io/badge/Start_A_Conversation-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Contact Abdul Majid"
+  />
+</a>
+
+<a href="https://github.com/AbdulMajidtangri?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore Repositories"
+  />
+</a>
+
+<a href="https://marsevtech.com">
+  <img
+    src="https://img.shields.io/badge/Visit_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Visit Portfolio"
+  />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Building practical software through clean thinking, consistent learning and meaningful engineering.
+
+<br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020617,50:4C1D95,100:2563EB&section=footer"
+  width="100%"
+  alt="Footer"
+/>
+
+</div>
