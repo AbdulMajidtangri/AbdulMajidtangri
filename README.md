@@ -1,61 +1,169 @@
-<div align="center" style="font-family: Arial, sans-serif; color: #c9d1d9; background-color: #0d1117; padding: 3rem; border-radius: 1.2rem; max-width: 900px; margin:auto;">
+<div align="center">
 
-  <!-- HEADER -->
-  <h1 style="font-size: 3.2rem; background: linear-gradient(90deg, #4F46E5, #E1147E); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0.3rem;">
-    Abdul Majid
-  </h1>
+# Hi, I'm Abdul Majid 👋
 
-  <h3 style="margin-top:0;">
-    <span style="background: linear-gradient(90deg, #00DBDE, #FC00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      Full Stack JavaScript Developer
-    </span>
-  </h3>
+### Full-Stack JavaScript Developer | Data Analysis Learner
 
-  <!-- TYPING EFFECT -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+Modern+Web+Apps+;MERN+Stack+Developer;Clean+Code+%7C+Scalable+Apps" />
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+JavaScript+Developer;Building+Modern+Web+Applications;MERN+Stack+Developer;Learning+Data+Analysis+with+Python;Clean+Code+%7C+Scalable+Applications"
+alt="Typing SVG"
+/>
 
-  <br><br>
+<br/>
 
-  <!-- INTRO CARD -->
-  <div style="background: #161b22; padding: 1.5rem; border-radius: 1rem; box-shadow: 0 0 20px rgba(0,0,0,0.4); margin-top: 1rem;">
-    <p style="font-size:1.1rem; line-height:1.6;">
-       Passionate developer focused on building <b>scalable</b>, <b>fast</b>, and <b>modern web applications</b> using JavaScript ecosystem and MERN stack.
-    </p>
-  </div>
+<img
+src="https://komarev.com/ghpvc/?username=AbdulMajidtangri&label=Profile%20Views&color=4F46E5&style=for-the-badge"
+alt="Profile Views"
+/>
 
-  <br>
+<img
+src="https://img.shields.io/github/followers/AbdulMajidtangri?label=Followers&style=for-the-badge&color=E1147E"
+alt="GitHub Followers"
+/>
 
-  <!-- TECH STACK -->
-  <h2 style="color:#58a6ff; margin-top:1.5rem;"> Tech Stack</h2>
+</div>
 
-  <div style="background:#161b22; padding:1.5rem; border-radius:1rem; display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github,python,Numpy,Pandas,Seaborn" />
-  </div>
+---
 
-  <br><br>
+## 👨‍💻 About Me
 
-  <!-- GITHUB STATS -->
-  <h2 style="color:#58a6ff;">📊 GitHub Stats</h2>
+I am a passionate **Full-Stack JavaScript Developer** focused on building fast, scalable, responsive, and modern web applications.
 
-  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdulMajidtangri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMajidtangri&theme=tokyonight&hide_border=true" height="180"/>
-  </div>
+I work primarily with the **MERN stack** and continuously improve my skills in backend development, databases, software engineering, and data analysis.
 
-  <br><br>
+* 🔭 Building full-stack web applications with the MERN stack
+* 🌱 Learning Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, and data analysis
+* 💻 Interested in clean code, responsive design, and scalable architecture
+* 🤝 Open to collaborating on web development and open-source projects
+* 🚀 Focused on improving my problem-solving and software engineering skills
 
-  <!-- TOP LANGUAGES -->
-  <h2 style="color:#58a6ff;">Most Used Languages</h2>
+---
 
-  <div style="background:#161b22; padding:1rem; border-radius:1rem;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidtangri&layout=compact&theme=tokyonight&hide_border=true" />
-  </div>
+## 🛠️ Technologies and Tools
 
-  <br><br>
+### Frontend Development
 
-  <!-- FOOTER -->
-  <div style="margin-top:2rem; font-size:1.1rem; color:#8b949e;">
-    💬 <i>"Code. Learn. Build. Improve."</i>
-  </div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" alt="Frontend Technologies"/>
+</p>
+
+### Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/>
+</p>
+
+### Programming and Data Analysis
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+</p>
+
+### Databases and SQL
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database Technologies"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Development Tools"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=AbdulMajidtangri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+alt="Abdul Majid GitHub Statistics"
+/>
+
+<img
+width="49%"
+src="https://streak-stats.demolab.com?user=AbdulMajidtangri&theme=tokyonight&hide_border=true"
+alt="Abdul Majid GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img
+width="55%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidtangri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+alt="Most Used Programming Languages"
+/>
+
+</div>
+
+> The language card is calculated from the public code available in my GitHub repositories. It does not represent my complete skill level.
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMajidtangri&theme=tokyo-night&hide_border=true&area=true"
+alt="Abdul Majid Contribution Activity Graph"
+/>
+
+</div>
+
+---
+
+## 🎯 Current Learning Goals
+
+```text
+Full-Stack Development    ███████████████████░   Improving
+Backend Development       ██████████████████░░   Improving
+Database and SQL          ███████████████░░░░░   Learning
+Python Data Analysis      █████████████░░░░░░░   Learning
+Software Engineering      █████████████████░░░   Improving
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/AbdulMajidtangri">
+  <img src="https://img.shields.io/badge/GitHub-AbdulMajidtangri-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 “Code. Learn. Build. Improve.”
+
+⭐ From [Abdul Majid](https://github.com/AbdulMajidtangri)
 
 </div>
