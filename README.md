@@ -21,22 +21,12 @@
   <img src="https://img.shields.io/badge/GitHub-AbdulMajidtangri-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://marsevtech.com">
-  <img src="https://img.shields.io/badge/Portfolio-MarsevTech-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="mailto:support@marsevtech.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=AbdulMajidtangri&label=Profile%20Views&color=6D28D9&style=flat-square" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/AbdulMajidtangri?label=Followers&style=flat-square&color=2563EB" alt="GitHub Followers"/>
 
 </div>
-
----
 
 ## About Me
 
