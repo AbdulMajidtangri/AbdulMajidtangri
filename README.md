@@ -362,15 +362,11 @@ I am interested in collaborating on:
 
 <div align="center">
 
-<a href="mailto:support@marsevtech.com">
-  <img src="https://img.shields.io/badge/Start_A_Conversation-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
-</a>
-
 <a href="https://github.com/AbdulMajidtangri?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
-<a href="https://marsevtech.com">
+<a href="https://doclink.life">
   <img src="https://img.shields.io/badge/Visit_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -391,8 +387,3 @@ I am interested in collaborating on:
 />
 
 </div>
-'''
-
-out = Path("/mnt/data/AbdulMajid_GitHub_Profile_README_Refined.md")
-out.write_text(updated, encoding="utf-8")
-print(out)
